@@ -1,0 +1,40 @@
+First, declare a variable
+A variable is a placeholder for storing values.
+
+Let = A variable that will change
+Const = Creates a variable that is able to be changed.
+
+--
+let myNewVAriable = 22;
+const anotherVariable = 100; 
+
+// Don't use var: 
+var anOldVariable = 85; 
+--
+
+Don't use var. Var was phased out. 
+
+Concatenating = combining value types in console.log()
+ex. console.log(abc+"def")
+
+-----------
+
+CODE PROMPT FOR THIS WEEK:
+
+Create a piece of generative art inspired by this weeks content 
+(brushes, randomisation, strokes, variables)
+
+Write comments in code and create a README.md file to describe the project.
+Have a look at different input and output variables to play around for a custom visual output 
+Have a look at the examples on notion
+
+https://anthillsocial.notion.site/03-Variables-Debugging-6ec8cef3d5e945aa87f49b7410b38053?pvs=25#d2b63ca1f050496db7c8afbaf82cb6e9
+
+
+
+
+
+
+
+
+ 
